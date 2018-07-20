@@ -1,1 +1,2 @@
-# TIC03SM-BLDA1
+# A-la-mano-
+Proyecto de tienda parcial 2
